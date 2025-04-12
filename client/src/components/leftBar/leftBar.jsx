@@ -21,7 +21,7 @@ const LeftBar = () => {
           <img src={icons.messages} alt="" />
         </a>
         <a href="/" className="menuIcon">
-          <img src={icons.messages} alt="" />
+          <img src={icons.settings} alt="" />
         </a>
       </div>
     </div>
