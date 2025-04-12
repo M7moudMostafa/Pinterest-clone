@@ -2,6 +2,8 @@
 
 A full-stack Pinterest-inspired social media app built using **React.js**, **Node.js**, **Express**, and **MongoDB**. This project demonstrates a modern web application with complete frontend and backend functionality including authentication, routing, infinite scrolling, image uploading/editing, responsive design, and database interactions.
 
+> 🔗 **Live Preview:** [https://pinterest-clone-dev.netlify.app/](https://pinterest-clone-dev.netlify.app/)
+
 ---
 
 ## 🧰 Tech Stack
@@ -15,16 +17,16 @@ A full-stack Pinterest-inspired social media app built using **React.js**, **Nod
 
 ## 🚀 Features
 
-- 🖼️ Responsive Masonry Grid Layout
-- 🔍 Search and filter functionality
-- 🔒 JWT-based Authentication with Cookie support
-- 🌐 RESTful API with Express and MongoDB
-- 💬 Comment section with emoji picker
-- 💾 Save posts to boards
-- 🧑‍💻 User profiles and follow feature
-- 🎨 Built-in image editor and uploader
-- 🧠 State management with Zustand
-- ⏬ Infinite scroll, lazy loading & code splitting
+- 🖼️ Responsive Masonry Grid Layout  
+- 🔍 Search and filter functionality  
+- 🔒 JWT-based Authentication with Cookie support  
+- 🌐 RESTful API with Express and MongoDB  
+- 💬 Comment section with emoji picker  
+- 💾 Save posts to boards  
+- 🧑‍💻 User profiles and follow feature  
+- 🎨 Built-in image editor and uploader  
+- 🧠 State management with Zustand  
+- ⏬ Infinite scroll, lazy loading & code splitting  
 
 ---
 
@@ -32,7 +34,7 @@ A full-stack Pinterest-inspired social media app built using **React.js**, **Nod
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/pinterest-clone.git
+git clone [https://github.com/yourusername/pinterest-clone.git](https://github.com/M7moudMostafa/Pinterest-clone.git)
 
 # Navigate to the project folder
 cd pinterest-clone
@@ -42,4 +44,3 @@ npm install
 
 # Run the app (both client and server)
 npm run dev
-```
