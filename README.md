@@ -34,7 +34,7 @@ A full-stack Pinterest-inspired social media app built using **React.js**, **Nod
 
 ```bash
 # Clone the repo
-git clone [https://github.com/yourusername/pinterest-clone.git](https://github.com/M7moudMostafa/Pinterest-clone.git)
+git clone [https://github.com/M7moudMostafa/Pinterest-clone.git]
 
 # Navigate to the project folder
 cd pinterest-clone
